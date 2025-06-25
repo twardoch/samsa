@@ -1,23 +1,6 @@
-#!/usr/local/bin/node/
+#!/usr/local/bin/node
 
-// Samsa CLI
-//
-// Samsa CLI (samsa-cli.js) is part of Samsa, a JavaScript project for processing processing 
-// that focuses on visualizing and processing variable fonts.
-//
-// https://github.com/Lorp/samsa/
-//
-// To run Samsa CLI requires Node.js. Download an installer for your platform here:
-//
-// https://nodejs.org/en/
-//
-// After Node is installed, type “node samsa-cli.js” to run Samsa CLI. This outputs the
-// user manual, explaining the arguments needed. Make sure samsa-core.js is in the same
-// directory as samsa-cli.js.
-//
-// The line at the very top of this file (#!/usr/local/bin/node/) is the shebang that allows
-// Samsa CLI to be run as an executable. You will need to make the file executable using 
-// chmod +x samsa-cli.js
+// samsa-cli.js
 
 
 // global config
